@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{6C10623F-2D04-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.ConsoleApp", "TodoApp.ConsoleApp\TodoApp.ConsoleApp.csproj", "{2AC9AFD0-79E0-4108-87B7-308B59AB3561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.ConsoleAppFile", "TodoApp.ConsoleAppFile\TodoApp.ConsoleAppFile.csproj", "{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{2AC9AFD0-79E0-4108-87B7-308B59AB3561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AC9AFD0-79E0-4108-87B7-308B59AB3561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AC9AFD0-79E0-4108-87B7-308B59AB3561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2AC9AFD0-79E0-4108-87B7-308B59AB3561} = {6C10623F-2D04-40D3-B56A-D897F74E5912}
+		{A2047636-6B0D-4B1A-9C33-1B10FC9E5A70} = {6C10623F-2D04-40D3-B56A-D897F74E5912}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9A7A66C-DAFD-4C1F-BACA-8C8F85E52C73}
